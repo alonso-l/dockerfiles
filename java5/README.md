@@ -3,6 +3,6 @@ PT-BR - Imagem JDK 5 para ser utilizada como base para containerizações dos se
 
 EN-US - JDK 5 image to be used as a base for containerization of application servers that are in old versions.
 
-[DockerHub](https://hub.docker.com/repository/docker/alons0/java5)
+[DockerHub](https://hub.docker.com/r/alons0/java5)
 
 [GitHub](https://github.com/alonso-l/dockerfiles/tree/master/java5)
